@@ -1,0 +1,2 @@
+const http - DiRequirejs('http');
+
